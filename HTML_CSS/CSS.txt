@@ -1,0 +1,4 @@
+Padding	-	-	- espaçamento entre as bordas e o conteúdo
+border	-	-	- bordas
+margin	-	-	- espaçamentos entre borda e elementos ao redor
+content	-	-	- conteúdo

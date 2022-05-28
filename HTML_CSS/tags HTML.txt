@@ -1,0 +1,20 @@
+HTML
+
+<head> -	-	-	-	guia que aparece no navegador
+<title>	-	-	-	-	Título
+<section>	-	-	-	seção genérica (pode haver várias)
+<header>	-	-	-	cabeçalho
+<article>	-	-	-	conteúdo independente e de maior relevância dentro de uma página (ode conter outros elementos, como header, cabeçalhos, parágrafos e imagens)
+<aside>	-	-	-	-	seção que engloba conteúdos relacionados ao conteúdo principal
+<footer>	-	-	-	representa o rodapé do conteúdo ou de parte dele (é aceito dentro de vários elementos, como article e section e até do body)
+<h1>-<h6>-<p>	-	-	-	marca a importância dos títulos, sendo <h1> o mais importante e <h6> o menos (apenas um <h1> por página). <p> é usado com textos maiores, imagens, vídeos e outros conteudos
+
+<a>	-	-	-	-	âncora tem <href=...> e <a target=...>. O href indica para onde vai levar o usuário (algum link etc) e target é como vai fazer isso (<a target="_blank">Link</a> abre nova aba)
+<img src="caminho">	-	-	imagem utilizada (necessário informar o caminho onde a imagem está)
+<img alt="descricao">	-	-	descrição da foto que aparece caso não carregue (NÃO É OBRIGATÓRIO)
+<ul>	-	-	-	-	lista (ordem não importa)
+<ol>	-	-	-	-	lista (ordem importa)
+<li>	-	-	-	-	adicionar um item à lista
+
+<link rel="styleshhet" href="style.css"> fala que será usado arquivo css no site
+id="nomeDoID" e class="nomeDaClass"	usado para ids e classes para usar no css. Só pode haver um objeto por id, classe pode vários (ex: <h1 id="title">Site teste do Maicao</h1>)
