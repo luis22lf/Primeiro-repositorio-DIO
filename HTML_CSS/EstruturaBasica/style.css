@@ -1,5 +1,10 @@
 body{
     background: rgb(177, 173, 173);
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    font-tra
 }
 
 .photo{
@@ -7,10 +12,20 @@ body{
     height: 10%;
     border-radius: 50%;
     border: 1px solid red;
+    margin: 0.8%;
 }
 
 #title, .subtitle, .post_title{
     color: rgb(45, 45, 46);
+}
+
+.title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.a{
+    text-decoration: line-through;
 }
 
 .post_title{
@@ -19,6 +34,7 @@ body{
     margin: 0;
     margin-bottom: 15px;
     text-align-last: center;
+    text-transform: capitalize;
 }
 
 .post{
@@ -36,4 +52,9 @@ body{
 
 .post_img{
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list{
+    padding: 0%;
 }

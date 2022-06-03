@@ -2,3 +2,16 @@ Padding	-	-	- espaçamento entre as bordas e o conteúdo
 border	-	-	- bordas
 margin	-	-	- espaçamentos entre borda e elementos ao redor
 content	-	-	- conteúdo
+
+font-family	-	- fonte do texto
+font-size	-	- tamanho do texto
+font-style	-	- aparência do texto (itálico...)
+font-weight	-	- peso do texto (normal / bold) bold deixa em negrito
+text-transform	-	- torna o texto caixa alta (uppercase)/caixa baixa (lowercase)/ primeiras letras maiúscula (capitalize)
+
+width	-	-	- largura
+height	-	-	- altura
+max-width	-	- largura máxima
+max-height	-	- altura máxima
+margin	-	-	- alinhamento (tem opção de colocar "auto" para alinhar automaticamente)
+text align	-	- alinhar texto
